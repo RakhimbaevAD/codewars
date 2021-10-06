@@ -6,6 +6,12 @@ Programming languages: *Python
 ### Links to katas in this repository:
 | Level | Challenge | My Solution |
 | :-----: | :-: | :-: |
+| 4kyu | [Permutations](https://www.codewars.com/kata/5254ca2719453dcc0b00027d/train/python) | [challenges/4kyu/permutations.py](challenges/4kyu/permutations.py) |
+| 5kyu | [Convert A Hex String To RGB](https://www.codewars.com/kata/5282b48bb70058e4c4000fa7/train/python) | [challenges/5kyu/convert_a_hex_string_to_rgb.py](challenges/5kyu/convert_a_hex_string_to_rgb.py) |
+| 5kyu | [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/train/python) | [challenges/5kyu/extract_the_domain_name_from_a_url.py](challenges/5kyu/extract_the_domain_name_from_a_url.py) |
+| 5kyu | [PaginationHelper](https://www.codewars.com/kata/515bb423de843ea99400000a/train/python) | [challenges/5kyu/pagination_helper.py](challenges/5kyu/pagination_helper.py) |
+| 6kyu | [Encrypt this!](https://www.codewars.com/kata/5848565e273af816fb000449/train/python) | [challenges/6kyu/encrypt_this.py](challenges/6kyu/encrypt_this.py) |
+| 6kyu | [Image host filename generator](https://www.codewars.com/kata/586a933fc66d187b6e00031a/train/python) | [challenges/6kyu/image_host_filename_generator.py](challenges/6kyu/image_host_filename_generator.py) |
 | 6kyu | [Who likes it?](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/train/python) | [challenges/6kyu/who_likes_it.py](challenges/6kyu/who_likes_it.py) |
 | 6kyu | [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc/train/python) | [challenges/6kyu/find_the_parity_outlier.py](challenges/6kyu/find_the_parity_outlier.py) |
 | 6kyu | [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/train/python) | [challenges/6kyu/decode_the_morse_code.py](/challenges/6kyu/decode_the_morse_code.py) |
